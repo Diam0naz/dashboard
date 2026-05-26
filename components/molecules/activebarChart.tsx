@@ -24,7 +24,7 @@ const chartData = [
   { browser: "chrome", visitors: 320, fill: "var(--chart-1)" },
   { browser: "safari", visitors: 210, fill: "var(--chart-2)" },
   { browser: "firefox", visitors: 180, fill: "var(--chart-3)" },
-  { browser: "edge", visitors: 140, fill: "var(--chart-4" },
+  { browser: "edge", visitors: 140, fill: "var(--chart-4)" },
   { browser: "opera", visitors: 75, fill: "var(--chart-5)" },
   { browser: "other", visitors: 60, fill: "var(--chart-6)" },
 ];
@@ -51,7 +51,7 @@ const chartConfig = {
   },
   opera: {
     label: "Opera",
-    color: "var(--chart-5",
+    color: "var(--chart-5)",
   },
   other: {
     label: "Other",
